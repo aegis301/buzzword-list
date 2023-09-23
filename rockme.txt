@@ -35,6 +35,7 @@ Chief Operating Officer
 Chief Technology Officer
 Clean Code
 Clicks
+Climate Change
 Close the Loop
 Cloud
 Cloud Compution
@@ -206,6 +207,7 @@ Serverless
 Service Mesh
 Shareholder
 Smart Buisness Automation
+Smart City
 Snackable Content
 Social Engineering
 Social Entrepreneurship
@@ -229,6 +231,7 @@ Toolchain
 Transparency
 Trunk based Development
 Unicorns
+User-centric design
 User-generated content
 Vegan
 Venture-Capital
@@ -246,3 +249,4 @@ Win-win
 Workflow
 Youtube Algorithm
 eCommerce
+Zero Waste
